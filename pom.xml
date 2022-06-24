@@ -30,6 +30,7 @@
     </dependencies>
 
     <build>
+        <finalName>jenkins-ci-cd-project</finalName>
         <plugins>
             <plugin>
                 <groupId>org.springframework.boot</groupId>
