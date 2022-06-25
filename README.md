@@ -159,9 +159,12 @@ pipeline {
 
 
 #### Github
-> http://localhost:8080/job/<NameJob>/pipeline-syntax/
+Отправляемся сюда, чтобы сгенерить безопасный способ аутентификации
+> http://localhost:8080/job/JOB_NAME/pipeline-syntax/
 
 <img src="https://github.com/Mark1708/hello-world-spring-app-with-jenkins/blob/master/assets/github_credential.png?raw=true" width="900">
 
 
 ### 11. Проверяем и наслаждаемся🤤
+<img src="https://github.com/Mark1708/hello-world-spring-app-with-jenkins/blob/master/assets/demo_pipeline.png?raw=true" width="900">
+<img src="https://github.com/Mark1708/hello-world-spring-app-with-jenkins/blob/master/assets/demo_dockerhub.png?raw=true" width="900">
