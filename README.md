@@ -1,4 +1,20 @@
-# Test Jenkins Project
+# hello-world-spring-app-with-jenkins
+![Jenkins](https://img.shields.io/badge/-jenkins-0a0a0a?style=for-the-badge&logo=jenkins)
+![Spring Boot](https://img.shields.io/badge/-springboot-0a0a0a?style=for-the-badge&logo=springboot)
+![PostgreSQL](https://img.shields.io/badge/-postgresql-0a0a0a?style=for-the-badge&logo=postgresql)
+![Flyway](https://img.shields.io/badge/-flyway-0a0a0a?style=for-the-badge&logo=flyway)
+![Docker](https://img.shields.io/badge/-Docker-0a0a0a?style=for-the-badge&logo=Docker)
+<br/>
+> Памятка по подключению Jenkins
+
+## Table of contents
+* [General info](#general-info)
+* [Technologies](#technologies)
+* [Status](#status)
+* [Inspiration](#inspiration)
+* [Contact](#contact)
+
+## General info
 
 # 1. Установка
 > brew install jenkins-lts
@@ -168,3 +184,23 @@ pipeline {
 ### 11. Проверяем и наслаждаемся🤤
 <img src="https://github.com/Mark1708/hello-world-spring-app-with-jenkins/blob/master/assets/demo_pipeline.png?raw=true" width="900">
 <img src="https://github.com/Mark1708/hello-world-spring-app-with-jenkins/blob/master/assets/demo_dockerhub.png?raw=true" width="900">
+
+## Technologies
+* Java - version 11
+* Spring Boot - version 2.7.2
+* PostgreSQL
+* Flyway
+* Docker
+* Jenkins
+
+## Status
+Проект _закончен_
+
+## Inspiration
+Проект сделан в образовательных целях
+
+## Contact
+Created by [Gurianov Mark](https://mark1708.github.io/) - feel free to contact me!
+#### +7(962)024-50-04 | mark1708.work@gmail.com | [github](http://github.com/Mark1708)
+
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mark1708&repo=hello-world-spring-app-with-jenkins&theme=chartreuse-dark&show_icons=true)
